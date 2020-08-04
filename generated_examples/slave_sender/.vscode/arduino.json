@@ -1,0 +1,6 @@
+{
+    "sketch": "slave_sender.ino",
+    "port": "/dev/tty.usbmodem144144301",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328"
+}
